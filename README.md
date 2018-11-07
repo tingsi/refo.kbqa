@@ -10,3 +10,14 @@ a kbqa system based on refo library. from http://openkg.cn/tool/eb483ee4-3be1-4d
 
 运行样例时请注意观察结果, test.py和backend文件夹要在同一级目录上
 
+
+# 运行方法
+
+## 启动服务器
+
+　cd backend/apache-jena-fuseki-3.5.0/
+　./fuseki-server --loc=../DB /demo &
+　
+## 运行测试程序。
+
+　　python test.py
