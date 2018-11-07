@@ -1,0 +1,44 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:cns="http://cnschema.org/">
+  <rdf:Description rdf:about="http://cnschema.org/Person/丁洪奎">
+    <cns:description>现任天明化工厂总工程师、淮阳分厂厂长、盱眙县人大常委会副主任。</cns:description>
+    <cns:profession>科学家</cns:profession>
+    <cns:ethnicity>汉族</cns:ethnicity>
+    <cns:nationality>中国</cns:nationality>
+    <cns:gender>男</cns:gender>
+    <cns:birthPlace rdf:resource="http://cnschema.org/Place/涟水县"/>
+    <cns:birthDate>1944年11月</cns:birthDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cnschema.org/Person/苏进木">
+    <cns:deathData>1937</cns:deathData>
+    <cns:birthPlace rdf:resource="http://cnschema.org/Place/里马村"/>
+    <cns:birthDate>1910</cns:birthDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cnschema.org/Person/苑茵">
+    <cns:profession>作家</cns:profession>
+    <cns:ethnicity>满族</cns:ethnicity>
+    <cns:nationality>中国</cns:nationality>
+    <cns:gender>女</cns:gender>
+    <cns:description>苑茵，辽宁本溪人。1942年毕业于复旦大学经济系。历任重庆妇女辅导院人事干事，重庆、天津、沈阳中央信托局业务科主任，天津人民银行科级行员，地质部干部英语班、中国音乐学院英语教师，北京市文史馆馆员。1995年加入中国作家协会。</cns:description>
+    <cns:birthDate>1919年</cns:birthDate>
+    <cns:alumniOf>复旦大学</cns:alumniOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cnschema.org/Person/苏赫拉布·莫拉迪">
+    <cns:weight>80kg</cns:weight>
+    <cns:nationality>伊朗</cns:nationality>
+    <cns:gender>男</cns:gender>
+    <cns:birthDate>1988年9月22日</cns:birthDate>
+    <cns:award>2012年亚洲举重锦标赛85公斤级挺举金牌</cns:award>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cnschema.org/Person/姚明">
+    <cns:profession>篮球运动员,上海大鲨鱼队老板</cns:profession>
+    <cns:nationality>中国</cns:nationality>
+    <cns:weight>140公斤</cns:weight>
+    <cns:height>226厘米</cns:height>
+    <cns:birthPlace rdf:resource="http://cnschema.org/Place/上海市徐汇区"/>
+    <cns:birthData>1980年9月12日</cns:birthData>
+    <cns:gender>男</cns:gender>
+    <cns:label>姚明</cns:label>
+  </rdf:Description>
+</rdf:RDF>
